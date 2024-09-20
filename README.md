@@ -19,7 +19,7 @@ To run this project,   following version should be installed:
   pip install pymupdf nltk langchain chromadb
   ```
 
-- **Google API Key**: You will need an API key to access Google’s Generative AI. Obtain it from the [Google Cloud Platform](https://console.cloud.google.com/), and set it up in your environment.
+- **Google API Key**:  need an API key to access Google’s Generative AI. Obtain it from the [Google Cloud Platform](https://console.cloud.google.com/), and set it up in your environment.
 
 ## System Workflow
 
