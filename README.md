@@ -11,7 +11,7 @@ This project implements a retrieval-augmented generation (RAG) system for questi
 
 ## Prerequisites
 
-To run this project, ensure you have the following installed:
+To run this project,   following version should be installed:
 
 - **Python 3.8+**
 - **Libraries**: Install the required Python packages using:
@@ -85,7 +85,7 @@ To run this project, ensure you have the following installed:
 
 ## Configuration Parameters
 
-You can configure the system through the `configuration()` function. The key parameters include:
+ configuring the system through the `configuration()` function. The key parameters include:
 
 - **API Key**: Required for Google AI access.
 - **PDF Path**: Path to the PDF file you want to analyze.
